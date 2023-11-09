@@ -1,7 +1,4 @@
-using System.Text.Json.Serialization;
 using RpgMvc.Models.Enuns;
-
-
 namespace RpgMvc.Models
 {
     public class PersonagemViewModel
@@ -14,17 +11,19 @@ namespace RpgMvc.Models
         public int Inteligencia { get; set; }     
         public ClasseEnum Classe { get; set; }
         public byte[]? FotoPersonagem { get; set; }
-
-        //public Usuario? Usuario { get; set; }*/
-
-        //public Arma? Arma { get; set; }
-
-        //public List<PersonagemHabilidade>? PersonagemHabilidades { get; set; }
-
         public int Disputas { get; set; }  
         public int Vitorias { get; set; }  
         public int Derrotas { get; set; }  
+        
+        // public int? UsuarioId { get; set; }
+        
+        // [JsonIgnore]
+        // public Usuario? Usuario { get; set; }
 
+        //[JsonIgnore]
+        //public Arma Arma { get; set; }
+
+        // public List<PersonagemHabilidade> PersonagemHabilidades { get; set; }
 
     }
 }
