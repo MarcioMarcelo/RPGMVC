@@ -15,6 +15,7 @@ namespace RpgMvc.Models
         public int Vitorias { get; set; }  
         public int Derrotas { get; set; }  
         
+        public List<PersonagemHabilidadeViewModel> PersonagemHabilidades {get; set;}
         // public int? UsuarioId { get; set; }
         
         // [JsonIgnore]
