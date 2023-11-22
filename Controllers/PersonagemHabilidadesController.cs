@@ -113,7 +113,7 @@ namespace RpgMvc.Controllers
 
                 var content = new StringContent(JsonConvert.SerializeObject(ph));
                 content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
-                HttpResponseMessagve response = await httpClient.PostAsync(uriBase, content);
+                HttpResponseMessage response = await httpClient.PostAsync(uriBase, content);
                 string serialized = await response.Content.ReadAsStringAsync();
 
                 if(response.StatusCode == System.Net.HttpStatusCode.OK)
