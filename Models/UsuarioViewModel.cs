@@ -2,6 +2,8 @@ namespace RpgMvc.Models
 {
     public class UsuarioViewModel
     {
+
+        public DateTime? DataAcesso { get; set; }
         public int Id { get; set; } 
         public string Username { get; set; } = string.Empty;
         public string PasswordString { get; set; } = string.Empty;
