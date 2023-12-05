@@ -106,3 +106,39 @@ F:\Geral\ETEC\2DS\DS\RPGMVC\obj\Debug\net7.0\refint\RpgMvc.dll
 F:\Geral\ETEC\2DS\DS\RPGMVC\obj\Debug\net7.0\RpgMvc.pdb
 F:\Geral\ETEC\2DS\DS\RPGMVC\obj\Debug\net7.0\RpgMvc.genruntimeconfig.cache
 F:\Geral\ETEC\2DS\DS\RPGMVC\obj\Debug\net7.0\ref\RpgMvc.dll
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\appsettings.Development.json
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\appsettings.json
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\RpgMvc.staticwebassets.runtime.json
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\RpgMvc.exe
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\RpgMvc.deps.json
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\RpgMvc.runtimeconfig.json
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\RpgMvc.dll
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\RpgMvc.pdb
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.csproj.AssemblyReference.cache
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.GeneratedMSBuildEditorConfig.editorconfig
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.AssemblyInfoInputs.cache
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.AssemblyInfo.cs
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.csproj.CoreCompileInputs.cache
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.MvcApplicationPartsAssemblyInfo.cache
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cache
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.RazorAssemblyInfo.cs
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\staticwebassets\msbuild.RpgMvc.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\staticwebassets\msbuild.build.RpgMvc.props
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RpgMvc.props
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RpgMvc.props
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\staticwebassets.pack.json
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\staticwebassets.build.json
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\staticwebassets.development.json
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\scopedcss\bundle\RpgMvc.styles.css
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\scopedcss\projectbundle\RpgMvc.bundle.scp.css
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.csproj.CopyComplete
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.dll
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\refint\RpgMvc.dll
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.pdb
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\RpgMvc.genruntimeconfig.cache
+D:\TecnicoDSII\DS\Atividade 15\RPGMVC\obj\Debug\net7.0\ref\RpgMvc.dll
