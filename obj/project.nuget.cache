@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gxvTMAPbg21lt+U+gtx3vo9t6ZH3qGo3v2C3EEB6+nFf5upuxwhaQpQm61FI/gCm8a6+uOXY/vf/o7YHJ1stNQ==",
+  "dgSpecHash": "SR3YZlpwlDMs/E43AkGSTGexnFFc1pWKjkqxfHlTaiNrQcYzH2O8GqSC0Kb6Jcs/ZuY0lru7dm2fc6F2iz5wXg==",
   "success": true,
-  "projectFilePath": "D:\\marcio marcelo\\RPGMVC\\RpgMvc.csproj",
+  "projectFilePath": "D:\\2DS\\MARCELOMARCIO_2DS\\DS\\aulafinal\\RPGMVC\\RpgMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
